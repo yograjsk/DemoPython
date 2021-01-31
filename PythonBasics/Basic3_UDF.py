@@ -47,10 +47,10 @@
 # myfunc(b=25, c=99.33, a='Ramesh')
 
 # Multiple return values
-def myFunc(a):
-    return a, a**2, a**3
-
-print(myFunc(2))
-print(myFunc(10))
+# def myFunc(a):
+#     return a, a**2, a**3
+#
+# print(myFunc(2))
+# print(myFunc(10))
 
 
